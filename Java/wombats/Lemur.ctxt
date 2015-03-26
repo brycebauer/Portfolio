@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Do\ whatever\ the\ wombat\ likes\ to\ to\ just\ now.\r\n
+comment1.params=
+comment1.target=boolean\ foundPizza()
+comment1.text=\r\n\ Check\ whether\ there\ is\ a\ pizza\ in\ the\ same\ cell\ as\ we\ are.\r\n
+comment2.params=
+comment2.target=void\ eatPizza()
+comment2.text=\r\n\ Eat\ a\ Pizza.\r\n
+comment3.params=
+comment3.target=void\ turnLeft()
+comment3.text=\r\n\ Turns\ towards\ the\ left.\r\n
+comment4.params=direction
+comment4.target=void\ setDirection(int)
+comment5.params=
+comment5.target=void\ turnRight()
+comment5.text=\r\n\ Turns\ towards\ the\ right.\r\n
+comment6.params=
+comment6.target=boolean\ canMove()
+comment6.text=\r\n\ Test\ if\ we\ can\ move\ forward.\ Return\ true\ if\ we\ can,\ false\ otherwise.\r\n
+comment7.params=
+comment7.target=void\ move()
+comment7.text=\r\n\ Move\ one\ cell\ forward\ in\ the\ current\ direction.\r\n
+numComments=8
