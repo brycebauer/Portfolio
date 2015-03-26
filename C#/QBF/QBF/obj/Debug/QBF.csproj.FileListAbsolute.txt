@@ -1,0 +1,6 @@
+c:\users\bwbba_000\documents\visual studio 2013\Projects\QBF\QBF\bin\Debug\QBF.exe.config
+C:\Users\bwbba_000\Documents\Visual Studio 2013\Projects\QBF\QBF\bin\Debug\QBF.exe
+C:\Users\bwbba_000\Documents\Visual Studio 2013\Projects\QBF\QBF\bin\Debug\QBF.pdb
+C:\Users\bwbba_000\Documents\Visual Studio 2013\Projects\QBF\QBF\obj\Debug\QBF.exe
+C:\Users\bwbba_000\Documents\Visual Studio 2013\Projects\QBF\QBF\obj\Debug\QBF.pdb
+C:\Users\bwbba_000\Documents\Visual Studio 2013\Projects\QBF\QBF\obj\Debug\QBF.csprojResolveAssemblyReference.cache
