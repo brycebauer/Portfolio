@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>frag.glsl</file>
+        <file>vert.glsl</file>
+        <file>grid_frag.glsl</file>
+        <file>grid_vert.glsl</file>
+	<file>floor_frag.glsl</file>
+	<file>floor_vert.glsl</file>
+	<file>ceiling_frag.glsl</file>
+	<file>ceiling_vert.glsl</file>
+	<file>door_frag.glsl</file>
+	<file>door_vert.glsl</file>
+	<file>sword_frag.glsl</file>
+	<file>sword_vert.glsl</file>
+	<file>wood_frag.glsl</file>
+	<file>wood_vert.glsl</file>
+	<file>head_frag.glsl</file>
+	<file>head_vert.glsl</file>
+	<file>zom_frag.glsl</file>
+	<file>zom_vert.glsl</file>
+	<file>creep_vert.glsl</file>
+	<file>creep_frag.glsl</file>
+    </qresource>
+</RCC>
