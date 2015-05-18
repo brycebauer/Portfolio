@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Bryce
+ * @author Bryce Bauer
  */
 public class Main {
 
