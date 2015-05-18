@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Bryce
+ * @author Bryce Bauer
  */
 public class QuickSort {
 

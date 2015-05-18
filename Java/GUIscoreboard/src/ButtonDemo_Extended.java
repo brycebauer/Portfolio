@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Mitchell
+ * @author Bryce Bauer
  */
 import java.awt.Color;
 import java.awt.event.ActionEvent;
